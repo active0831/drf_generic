@@ -32,5 +32,5 @@ Django REST framework 기반 파이썬 웹 개발을 빠르게 시작할 수 있
  - bin/backend/users
 
 ## 예제 파일
- - examples/
-  * 의존 라이브러리는 개별적으로 설치가 필요할 수 있음
+ * examples/
+  - 의존 라이브러리는 개별적으로 설치가 필요할 수 있음
