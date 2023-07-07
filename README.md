@@ -14,7 +14,7 @@ Django REST framework 기반 파이썬 웹 개발을 빠르게 시작할 수 있
 
 ### 설정
  - bin/backend/backend/settings.py
-  * 특히 SECRET_KEY 는 처음에 반드시 새로 생성하여 수정 필요
+   - 특히 SECRET_KEY 는 처음에 반드시 새로 생성하여 수정 필요
 
 ### 주요 파일
 - bin/backend/app1/views.py
