@@ -1,8 +1,5 @@
-# DRF_generic (v23.001)
+# DRF_generic (v23.02)
 Django REST framework 기반 파이썬 웹 개발을 빠르게 시작할 수 있는 템플릿 입니다.
-
-- 업데이트 기록: 
-  - 업로드 시작 ( 2023.7.7 )
 
 # 설치 
  - 설치 및 실행 : setup.bat
@@ -31,6 +28,8 @@ Django REST framework 기반 파이썬 웹 개발을 빠르게 시작할 수 있
  - bin/backend/core
  - bin/backend/users
 
-## 예제 파일
- - examples/
-   - 의존 라이브러리는 개별적으로 설치가 필요할 수 있음
+# 업데이트 내역: 
+  - v23.02
+    - 파이썬이 설치되지 않은 환경에서도 설치 및 실행 가능하도록 함 ( 2023.7.14 )
+  - v23.001
+    - 업로드 시작 ( 2023.7.7 )
